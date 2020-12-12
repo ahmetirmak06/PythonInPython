@@ -1,0 +1,9 @@
+C:\Users\lab3_15\Desktop\17032020_NTP\CumleAnalizi\CumleAnalizi\bin\Debug\CumleAnalizi.exe.config
+C:\Users\lab3_15\Desktop\17032020_NTP\CumleAnalizi\CumleAnalizi\obj\Debug\CumleAnalizi.csprojResolveAssemblyReference.cache
+C:\Users\lab3_15\Desktop\17032020_NTP\CumleAnalizi\CumleAnalizi\obj\Debug\CumleAnalizi.Form1.resources
+C:\Users\lab3_15\Desktop\17032020_NTP\CumleAnalizi\CumleAnalizi\obj\Debug\CumleAnalizi.Properties.Resources.resources
+C:\Users\lab3_15\Desktop\17032020_NTP\CumleAnalizi\CumleAnalizi\obj\Debug\CumleAnalizi.csproj.GenerateResource.Cache
+C:\Users\lab3_15\Desktop\17032020_NTP\CumleAnalizi\CumleAnalizi\bin\Debug\CumleAnalizi.exe
+C:\Users\lab3_15\Desktop\17032020_NTP\CumleAnalizi\CumleAnalizi\bin\Debug\CumleAnalizi.pdb
+C:\Users\lab3_15\Desktop\17032020_NTP\CumleAnalizi\CumleAnalizi\obj\Debug\CumleAnalizi.exe
+C:\Users\lab3_15\Desktop\17032020_NTP\CumleAnalizi\CumleAnalizi\obj\Debug\CumleAnalizi.pdb
